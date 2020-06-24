@@ -1,0 +1,22 @@
+Pseudocode :
+
+Initialize flag and count to 0;
+Initialize number to 1;
+
+
+While count < 10001 //loop until 
+    if number = 1
+        Not Prime
+    if number is EVEN:
+        Not Prime
+    if number is 2;
+        Prime
+    
+    Take square root of number:
+        change to integer
+
+        Check only odd number:
+            if flag == 0:
+                answer + number
+                Increase count
+        Increase number
