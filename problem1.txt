@@ -1,0 +1,20 @@
+
+Write a txt file where you describe the algorithm that you used to solve the problem (eg. problem1.txt)
+
+Output : Button enabled if there is input value. If there is no input value, button is disabled
+
+1.
+Initially, Button disabled == TURE.
+
+2.
+if input value LENGTH > 0
+	button disabled == FALSE.
+else
+	button disabled == TURE.
+
+3.
+After clicking button,
+	button disabled == TRUE
+	input value == NULL
+
+
